@@ -2,6 +2,8 @@
 
 ## Worked examples & proofs
 
+* [Derivation of eqn 2.9](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/derivation_2.9.pdf) - Show that, for EPE with squared error loss, f(x) = E(Y|X=x) is optimal. 
+
 ## Code implementations
 
 * [The oracle revealed](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/bayes_decision_boundary.R) - My implementation of the data described in 2.3.3 (p16)
