@@ -17,6 +17,10 @@
 
 ## Exercises
 
+## Presentations
+
+* [PDF](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/presentations/slides_2.1-2.5.pdf) and [Keynote](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/presentations/slides_2.1-2.5.key) versions of my presentation on 2.1-2.5 along with my associated [whiteboard scribbles](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/presentations/Whiteboard_notes.png).
+
 
 
 
