@@ -1,4 +1,4 @@
-# Chapter 2 - Content
+# Chapter 2 - Overview of Supervised Learning
 
 ## Worked examples & proofs
 
