@@ -15,6 +15,12 @@
 
 <img src="https://raw.githubusercontent.com/alanjeffares/elements-of-statistical-learning/master/chapter-2/images/MSE_vs_Dimension_1.png"  width="400"> <img src="https://raw.githubusercontent.com/alanjeffares/elements-of-statistical-learning/master/chapter-2/images/MSE_vs_Dimension_2.png"  width="400">
 
+
+
+* [K-NN vs GLM MSE](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.8.R) - Visualisation of my implementation of exercise 2.8
+
+<img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/images/KNN_vs_GLM.png"  width="400">
+
 ## Exercises
 
 * [Exercise 2.1](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.1.pdf)
