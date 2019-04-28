@@ -30,8 +30,8 @@
 * [Exercise 2.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.5.pdf)
 * [Exercise 2.6](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.6.pdf)
 * [Exercise 2.7](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.7.pdf)
-* [Exercise 2.8](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.8.R)
-* [Exercise 2.9]
+* [Exercise 2.8](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.8.R) - And a [visualisation](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/images/KNN_vs_GLM.png) of the results
+* [Exercise 2.9]()
 
 ## Presentations
 
