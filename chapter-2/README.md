@@ -20,6 +20,12 @@
 * [Exercise 2.1](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.1.pdf)
 * [Exercise 2.2](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.2.pdf) - And [my implementation](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/bayes_decision_boundary.R) of this decision boundry for both functions described in 2.5 (p23 + 26)
 * [Exercise 2.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.3.pdf)
+* [Exercise 2.4](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.4.pdf)
+* [Exercise 2.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.5.pdf)
+* [Exercise 2.6](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.6.pdf)
+* [Exercise 2.7](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.7.pdf)
+* [Exercise 2.8](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-2/exercise_2.8.R)
+* [Exercise 2.9]
 
 ## Presentations
 
