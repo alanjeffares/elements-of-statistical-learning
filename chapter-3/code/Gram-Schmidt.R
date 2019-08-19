@@ -30,6 +30,7 @@ GramSchmidt <- function(X, y) {
       gamma[l] <- regress_b_on_a(a=Z[[l]], b=X[,j])
     }
     Z[[j+1]] <- get_residual(a=Z, b=X[,j], gamma)
+    print(Z)
   }
   # step 3: calculate beta p
   print(paste0('Beta', j, ': ', regress_b_on_a(Z[[j+1]], y)))
@@ -41,6 +42,5 @@ X <- matrix(c(4, 7, 9, 1, 8, 4), 3)
 y =  X[,1]*2 + X[,2]*3 + rnorm(3)
 
 GramSchmidt(X,y)
-
 # and compare to lm estimate
 lm(y ~ X[,1] + X[,2] )
