@@ -1,8 +1,8 @@
 # Chapter 3 - Linear Methods for Regression
 
 ## Worked examples & proofs
-* [Derivation of 3.47](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/derivations/derivation_3.47.pdf)
-* [Derivation of 3.50](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/derivations/derivation_3.50.pdf)
+* [Derivation of eqn 3.47](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/derivations/derivation_3.47.pdf)
+* [Derivation of eqn 3.50](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/derivations/derivation_3.50.pdf)
 
 ## Code implementations
 
