@@ -26,6 +26,10 @@
 * [Exercise 3.10](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.10.pdf)
 * [Exercise 3.11](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.11.pdf) 
 * [Exercise 3.12](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.12.pdf)
+* [Exercise 3.23 (a)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.23_a.pdf)
+* [Exercise 3.24](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.24.pdf) 
+* [Exercise 3.25](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.25.pdf) 
+* [Exercise 3.29](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.29.pdf) 
 * [Exercise 3.13]() TODO
 
 TODO:
