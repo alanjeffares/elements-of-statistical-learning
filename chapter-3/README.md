@@ -11,6 +11,12 @@
 * [Exercise 3.2 simulation experiment](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/code/exercise_3.2.R) - Simulation experiment for exercise 3.2
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/images/Exercise_3.2.png"  width="400">
 
+* [Least Angle Regression](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/code/least_angle_regression.R) - A naive implementation of LAR (algorithm 3.2) where alpha is increased incrementally. 
+
+* [Least Angle Regression with look ahead](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/code/least_angle_regression_la.R) - Another implementation of LAR, this time using my solution from exercise 3.25 to find the next value of alpha theoretically. 
+
+* [LAR comparison](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/code/sample_usage.R) - A script evaluating and comparing my two LAR implementations. 
+<img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/images/evolving_coefficients.png" width="400">
 
 
 ## Exercises
