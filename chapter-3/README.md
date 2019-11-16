@@ -15,7 +15,7 @@
 
 * [Least Angle Regression with look ahead](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/code/least_angle_regression_la.R) - Another implementation of LAR, this time using my solution from exercise 3.25 to find the next value of alpha theoretically. 
 
-* [LAR comparison](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/code/sample_usage.R) - A script evaluating and comparing my two LAR implementations. 
+* [LAR comparison](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/code/sample_usage.R) - A script evaluating, comparing and visualising my two LAR implementations. 
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/images/evolving_coefficients.png" width="400">
 
 
@@ -35,18 +35,18 @@
 * [Exercise 3.12](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.12.pdf)
 * [Exercise 3.13](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.13.pdf)
 * [Exercise 3.14](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.14.pdf)
-* Exercise 3.15 - Todo
+* Exercise 3.15 
 * [Exercise 3.16](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.16.pdf)
-* Exercise 3.17 - Todo
-* Exercise 3.18 - Todo
+* Exercise 3.17 
+* Exercise 3.18 
 * [Exercise 3.19](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.19.pdf)
 * [Exercise 3.23 (a)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.23_a.pdf)
 * [Exercise 3.23 (b)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.23_b.pdf)
 * [Exercise 3.23 (c)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.23_c.pdf)
 * [Exercise 3.24](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.24.pdf) 
 * [Exercise 3.25](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.25.pdf) 
-* Exercise 3.26 - Todo
-* Exercise 3.27 - Todo
+* Exercise 3.26 
+* Exercise 3.27 
 * [Exercise 3.28](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.28.pdf) 
 * [Exercise 3.29](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.29.pdf) 
 * [Exercise 3.30](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/exercises/exercise_3.30.pdf)
