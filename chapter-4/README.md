@@ -5,7 +5,7 @@
 
 
 ## Code implementations
-* [LDA implementation using eqn 4.10](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/code/LDA.R) - My implementation Linear Discriminant Analysis and visualisation of the decision boundaries on the iris dataset. 
+* [LDA implementation using eqn 4.10](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/code/LDA.R) - My implementation Linear Discriminant Analysis and visualisation of the decision boundaries on the iris dataset. < \br>
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/images/LDA_decision_boundary.png"  width="400"><img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/images/LDA_decision_boundary_contour.png"  width="400">
 * [QDA implementation using eqn 4.12](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/code/LDA.R) - My implementation Quadratic Discriminant Analysis and visualisation of the decision boundaries on the iris dataset. 
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/images/QDA_decision_boundary.png"  width="400"><img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/images/QDA_decision_boundary_contour.png"  width="400">
