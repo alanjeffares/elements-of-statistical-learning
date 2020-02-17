@@ -31,16 +31,16 @@ update_params <- function(b_0, b, y_i, x_i, rho){
   return(list(b_0 = b_0, b = b))
 }
 
-plot_epoch <- function(data, correct_df, missclass_df, b_0, b, epoch){
+plot_epoch <- function(data, correct_df, misclass_df, b_0, b, epoch){
   # plot the data and colour by if classified correctly 
   plot(data[,1], data[,2], type='n', xaxt='n', yaxt='n', xlab='', ylab='', cex.lab=1.2)
   title('Perceptron Learning Algorithm', line=0.5, cex.main=2)
   title(ylab='X2', xlab='X1', line = 0.5, cex.lab = 1.4)
   points(correct_df[,1], correct_df[,2], col='black', pch=16, cex=2)
-  points(missclass_df[,1], missclass_df[,2], col='red', pch=16, cex=2)
+  points(misclass_df[,1], misclass_df[,2], col='red', pch=16, cex=2)
   abline(a=-b_0/b[2], b=-b[1]/b[2], lwd=3, col='grey36')
   coord <- par('usr')  # get four corners of plot
-  legend(x=coord[1]*0.995, y=coord[2]*1.005, legend=c('Missclassified', 'Correctly classified'),
+  legend(x=coord[1]*0.995, y=coord[2]*1.005, legend=c('Misclassified', 'Correctly classified'),
          col=c("red", "black"), pch=16, cex=1.6, bty='o', bg='white',
          box.col='white')
   mtext(paste('Epoch:',epoch), side=3, line=0.3, at=coord[2]*0.95, cex=1.3, font=2)
@@ -50,18 +50,18 @@ plot_epoch <- function(data, correct_df, missclass_df, b_0, b, epoch){
 saveGIF(
   {
     rho <- 0.01  # learning rate
-    missclass_idx = 1
+    misclass_idx = 1
     epoch = 0
-    while(sum(missclass_idx)>0){
+    while(sum(misclass_idx)>0){
       epoch = epoch + 1
       print(epoch)
-      # check which rows are missclassified and subset (eqn 4.41)
-      missclass_idx <- data[,3]*((data[,1] * b[1]) + (data[,2] * b[2]) + b_0) > 0
-      missclass_df = data[missclass_idx,]
-      correct_df = data[!missclass_idx,]
-      plot_epoch(data, correct_df, missclass_df, b_0, b, epoch)
+      # check which rows are misclassified and subset (eqn 4.41)
+      misclass_idx <- data[,3]*((data[,1] * b[1]) + (data[,2] * b[2]) + b_0) > 0
+      misclass_df = data[misclass_idx,]
+      correct_df = data[!misclass_idx,]
+      plot_epoch(data, correct_df, misclass_df, b_0, b, epoch)
       # for each misclassified observation update parameters
-      for (i in as.integer(rownames(missclass_df))) {
+      for (i in as.integer(rownames(misclass_df))) {
         x_i <- t(as.matrix(data[i,1:2]))
         y_i <- as.numeric(data[i,3])
         
@@ -71,7 +71,7 @@ saveGIF(
       }
     }
     # re plot last frame for visualisation purposes
-    plot_epoch(data, correct_df, missclass_df, b_0, b, epoch)
+    plot_epoch(data, correct_df, misclass_df, b_0, b, epoch)
   },
   movie.name = 'perceptron.gif', 
   interval = 0.3, 
