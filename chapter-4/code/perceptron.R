@@ -11,10 +11,11 @@ class_2$label <- 1
 data <- rbind(class_1, class_2)
 
 # plot the data and colour by if classified correctly 
+par(mar = c(1.5), 4, 4, 2) + 0.1)
 plot(data[,1], data[,2], type='n', xaxt='n', yaxt='n', xlab='', ylab='', cex.lab=1.2)
-title('Two Well Seperated Gaussians', line=0.5, cex.main=1.5)
+title('Two Well Seperated Gaussians', line=0.5, cex.main=1.2)
 title(ylab='X2', xlab='X1', line = 0.5, cex.lab = 1.4)
-points(data[,1], data[,2], col=rep(c('dodgerblue4','chocolate'), each=100), pch=16, cex=2)
+points(data[,1], data[,2], col=rep(c('dodgerblue4','chocolate'), each=100), pch=16, cex=1.6)
 coord <- par('usr')
 legend(x=coord[1]*0.995, y=coord[2]*1.005, legend=c('Distribution 1', 'Distribution 2'),
        col=c('dodgerblue4', 'chocolate'), pch=16, cex=1, bty='o', bg='white',
@@ -33,17 +34,17 @@ update_params <- function(b_0, b, y_i, x_i, rho){
 
 plot_epoch <- function(data, correct_df, misclass_df, b_0, b, epoch){
   # plot the data and colour by if classified correctly 
-  plot(data[,1], data[,2], type='n', xaxt='n', yaxt='n', xlab='', ylab='', cex.lab=1.2)
+  plot(data[,1], data[,2], type='n', xaxt='n', yaxt='n', xlab='', ylab='', cex.lab=1.4)
   title('Perceptron Learning Algorithm', line=0.5, cex.main=2)
   title(ylab='X2', xlab='X1', line = 0.5, cex.lab = 1.4)
-  points(correct_df[,1], correct_df[,2], col='black', pch=16, cex=2)
-  points(misclass_df[,1], misclass_df[,2], col='red', pch=16, cex=2)
+  points(correct_df[,1], correct_df[,2], col='black', pch=16, cex=2.2)
+  points(misclass_df[,1], misclass_df[,2], col='red', pch=16, cex=2.2)
   abline(a=-b_0/b[2], b=-b[1]/b[2], lwd=3, col='grey36')
   coord <- par('usr')  # get four corners of plot
   legend(x=coord[1]*0.995, y=coord[2]*1.005, legend=c('Misclassified', 'Correctly classified'),
          col=c("red", "black"), pch=16, cex=1.6, bty='o', bg='white',
          box.col='white')
-  mtext(paste('Epoch:',epoch), side=3, line=0.3, at=coord[2]*0.95, cex=1.3, font=2)
+  mtext(paste('Epoch:',epoch), side=3, line=0.3, at=coord[2]*0.95, cex=1.5, font=2)
 }
 
 # package logic together in gif format
