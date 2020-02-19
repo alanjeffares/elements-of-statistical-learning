@@ -20,4 +20,5 @@
 * [Exercise 4.2 (e)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.2_e.pdf)
 * [Exercise 4.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.3.pdf)
 * [Exercise 4.4](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.4.pdf)
+* [Exercise 4.6](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.6.pdf)
 * [Exercise 4.9](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/code/QDA.R)
