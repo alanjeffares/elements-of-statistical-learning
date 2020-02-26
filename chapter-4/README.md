@@ -13,12 +13,14 @@
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/images/synthetic_data.png"  width="400"><img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/images/perceptron.gif"  width="400">
 
 ## Exercises
+* [Exercise 4.1](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.1.pdf)
 * [Exercise 4.2 (a)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.2_a.pdf) 
-* [Exercise 4.2 (b)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.2_b.pdf) - See minor [correction](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/corrections/exercise_4.2_b.md)
+* [Exercise 4.2 (b)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.2_b.pdf) - See minor [correction](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/corrections/exercise_4.2_b.md).
 * [Exercise 4.2 (c)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.2_c.pdf)
 * [Exercise 4.2 (d)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.2_d.pdf)
 * [Exercise 4.2 (e)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.2_e.pdf)
 * [Exercise 4.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.3.pdf)
 * [Exercise 4.4](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.4.pdf)
+* [Exercise 4.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.4.pdf) - Credit to *whuber* for [considerable help](https://stats.stackexchange.com/questions/451119/proving-mles-undefined-for-logistic-regression-with-separable-classes-in-p-dime) with this one.
 * [Exercise 4.6](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.6.pdf)
 * [Exercise 4.9](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/code/QDA.R)
