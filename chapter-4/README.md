@@ -21,7 +21,7 @@
 * [Exercise 4.2 (e)](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.2_e.pdf)
 * [Exercise 4.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.3.pdf)
 * [Exercise 4.4](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.4.pdf)
-* [Exercise 4.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.4.pdf) - Credit to *whuber* for [considerable help](https://stats.stackexchange.com/questions/451119/proving-mles-undefined-for-logistic-regression-with-separable-classes-in-p-dime) with this one.
+* [Exercise 4.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.5.pdf) - Credit to *whuber* for [considerable help](https://stats.stackexchange.com/questions/451119/proving-mles-undefined-for-logistic-regression-with-separable-classes-in-p-dime) with this one.
 * [Exercise 4.6](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.6.pdf)
 * [Exercise 4.7](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/exercises/exercise_4.7.pdf)
 * [Exercise 4.9](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-4/code/QDA.R)
