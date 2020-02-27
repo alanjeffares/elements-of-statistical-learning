@@ -1,4 +1,4 @@
-# Chapter 4 - Linear Methods for Classification
+# Chapter 5 - Basis Expansions and Regularization
 
 ## Worked examples & proofs
 

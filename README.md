@@ -5,3 +5,4 @@ This repository documents my progress as I work through [The Elements of Statist
 * [Chapter 2 - Overview of Supervised Learning](https://github.com/alanjeffares/elements-of-statistical-learning/tree/master/chapter-2)
 * [Chapter 3 - Linear Methods for Regression](https://github.com/alanjeffares/elements-of-statistical-learning/tree/master/chapter-3)
 * [Chapter 4 - Linear Methods for Classification](https://github.com/alanjeffares/elements-of-statistical-learning/tree/master/chapter-4)
+* [Chapter 5 - Basis Expansions and Regularization](https://github.com/alanjeffares/elements-of-statistical-learning/tree/master/chapter-5)
