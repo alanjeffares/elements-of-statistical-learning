@@ -14,4 +14,5 @@
 ## Exercises
 * [Exercise 5.1](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/exercises/exercise_5.1.pdf)
 * [Exercise 5.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/images/figure_5.3.png) - And [the code](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/code/exercise_5.3.R) to generate it. 
+* [Exercise 5.4](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/exercises/exercise_5.4.pdf)
 
