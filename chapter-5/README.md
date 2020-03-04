@@ -10,6 +10,9 @@
 * [Recreating Figure 5.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/code/exercise_5.3.R) - Cubic splines pointwise variance can be erratic near the boundaries, however natural cubic splines can improve the situation. <br />
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/images/figure_5.3.png"  width="400">
 
+* [Recreating Figure 5.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/code/exercise_5.5.R) - Following the Phoneme example (Section 5.2.3) to use splines as a smooth regularisation technique. <br />
+<img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/images/figure_5.5.png"  width="400">
+
 
 ## Exercises
 * [Exercise 5.1](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/exercises/exercise_5.1.pdf)
