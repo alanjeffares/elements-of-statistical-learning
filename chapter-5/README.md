@@ -10,7 +10,7 @@
 * [Recreating Figure 5.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/code/exercise_5.3.R) - Cubic splines pointwise variance can be erratic near the boundaries, however natural cubic splines can improve the situation. <br />
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/images/figure_5.3.png"  width="400">
 
-* [Recreating Figure 5.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/code/exercise_5.5.R) - Following the Phoneme example (Section 5.2.3) to use splines as a smooth regularisation technique. <br />
+* [Recreating Figure 5.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/code/figure_5.5.R) - Following the Phoneme example (Section 5.2.3) to use splines as a smooth regularisation technique. <br />
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/images/figure_5.5.png"  width="400">
 
 
@@ -18,4 +18,4 @@
 * [Exercise 5.1](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/exercises/exercise_5.1.pdf)
 * [Exercise 5.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/images/figure_5.3.png) - And [the code](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/code/exercise_5.3.R) to generate it. 
 * [Exercise 5.4](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/exercises/exercise_5.4.pdf)
-
+* [Exercise 5.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/code/exercise_5.5.R) - 12 knots more distributed more densely on the first 100 frequencies achieved the lowest error rate at 7.7\%.
