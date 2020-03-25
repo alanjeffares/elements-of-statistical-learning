@@ -12,3 +12,4 @@
 
 
 ## Exercises
+* [Exercise 6.2](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/exercise_6.2.pdf)
