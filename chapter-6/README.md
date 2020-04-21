@@ -1,6 +1,7 @@
 # Chapter 6 - Kernel Smoothing Methods
 
 ## Worked examples & proofs
+* [Derivation of Variance](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/derivations/variance.pdf) - Deriving the variance for local polynomial regression as described in Section 6.1.2. 
 
 ## Code implementations
 
