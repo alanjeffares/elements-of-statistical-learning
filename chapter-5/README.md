@@ -28,5 +28,10 @@
 * [Exercise 5.12](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/exercises/exercise_5.12.pdf)
 * [Exercise 5.13](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/exercises/exercise_5.13.pdf)
 
+
 ## Presentations
 * [PDF](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/presentations/slides_5.pdf) and [Keynote](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/presentations/slides_5.key) versions of my presentation on chapter 5.
+
+
+## References
+Green, P. and Silverman, B. (1994) _Nonparametric Regression and Generalized Linear Models - A Roughness Penalty Approach_

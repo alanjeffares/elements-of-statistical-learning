@@ -2,6 +2,7 @@
 
 ## Worked examples & proofs
 * [Derivation of Variance](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/derivations/variance.pdf) - Deriving the variance for local polynomial regression as described in Section 6.1.2. 
+* [Sherman-Morrison Formula](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/derivations/sherman-morrison.pdf) - Proving the Sherman-Morrison formula as used in my solution to exercise 6.7.
 
 ## Code implementations
 
@@ -19,5 +20,10 @@
 * [Exercise 6.6](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/exercises/exercise_6.6.pdf)
 * [Exercise 6.7](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/exercises/exercise_6.7.pdf)
 * [Exercise 6.8](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/exercises/exercise_6.8.pdf)
+Exercise 6.9 - Need to cover GAM's in Chapter 9 first in order to complete this question.
 * [Exercise 6.10](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/exercises/exercise_6.10.pdf)
 * [Exercise 6.11](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/exercises/exercise_6.11.pdf)
+
+
+## References
+ Loader, C. (1999) _Local Regression and Likelihood_
