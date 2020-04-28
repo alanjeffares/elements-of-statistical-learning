@@ -14,6 +14,8 @@
 
 * [Local Linear Discriminant Analysis](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/code/llda.pdf) - Performing Local Linear Discriminant Analysis on the zipcode data for exercise 6.12. This is not an efficient LLDA implementation and took ~24 hrs to run on my raspberry pi 4. The results indicate that a local approach improves performance over regular LDA. 
 
+<div align="center">
+
 | Model | Accuracy | 
 | :--------------: | :----------: | 
 | LLDA -> λ = 18 | 0.93 | 
@@ -22,6 +24,8 @@
 | LLDA -> λ = 30 | 0.9 | 
 | LLDA -> λ = 50 | 0.89 | 
 | LDA | 0.89 |
+
+</div>
 
 
 ## Exercises
