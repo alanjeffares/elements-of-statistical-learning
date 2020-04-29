@@ -12,7 +12,7 @@
 * [Recreating Figure 6.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/code/figure_6.3.R) - Demonstrating local linear regression reducing bias, particularly near to the boundary, when compared to Nadaraya–Watson kernel-weighted average.
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/images/figure_6.3.png"  width="800">
 
-* [Local Linear Discriminant Analysis](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/code/llda.pdf) - Performing Local Linear Discriminant Analysis on the zipcode data for exercise 6.12. This is not an efficient LLDA implementation and took ~24 hrs to run on my raspberry pi 4. The results indicate that a local approach improves performance over regular LDA. 
+* [Local Linear Discriminant Analysis](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/code/llda.R) - Performing Local Linear Discriminant Analysis on the zipcode data for exercise 6.12. This is not an efficient LLDA implementation and took ~24 hrs to run on my raspberry pi 4. The results indicate that a local approach improves performance over regular LDA. 
 
 <p align="center">
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/images/results.png"  width="200">
@@ -29,7 +29,7 @@
 * Exercise 6.9 - Need to cover GAM's in Chapter 9 first in order to complete this question.
 * [Exercise 6.10](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/exercises/exercise_6.10.pdf)
 * [Exercise 6.11](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/exercises/exercise_6.11.pdf)
-* [Exercise 6.12](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/code/llda.pdf)
+* [Exercise 6.12](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/code/llda.R)
 
 
 

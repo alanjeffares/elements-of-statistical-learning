@@ -7,4 +7,6 @@ This repository documents my progress as I work through [The Elements of Statist
 * [Chapter 4 - Linear Methods for Classification](https://github.com/alanjeffares/elements-of-statistical-learning/tree/master/chapter-4)
 * [Chapter 5 - Basis Expansions and Regularization](https://github.com/alanjeffares/elements-of-statistical-learning/tree/master/chapter-5)
 * [Chapter 6 - Kernel Smoothing Methods](https://github.com/alanjeffares/elements-of-statistical-learning/tree/master/chapter-6)
+* [Chapter 7 - Model Assessment and Selection](https://github.com/alanjeffares/elements-of-statistical-learning/tree/master/chapter-7)
+
 
