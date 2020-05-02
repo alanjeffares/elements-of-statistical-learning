@@ -12,5 +12,6 @@
 ## Exercises
 * [Exercise 7.1](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-7/exercises/exercise_7.1.pdf)
 * [Exercise 7.4](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-7/exercises/exercise_7.4.pdf)
+* [Exercise 7.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-7/exercises/exercise_7.5.pdf)
 
 
