@@ -11,6 +11,7 @@
 
 ## Exercises
 * [Exercise 7.1](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-7/exercises/exercise_7.1.pdf)
+* [Exercise 7.3](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-7/exercises/exercise_7.3.pdf) - See also an [additional proof](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-5/exercises/exercise_5.13.pdf) of part (a) and a proof of the [Sherman-Morrison Formula](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-6/derivations/sherman-morrison.pdf).
 * [Exercise 7.4](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-7/exercises/exercise_7.4.pdf)
 * [Exercise 7.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-7/exercises/exercise_7.5.pdf)
 
