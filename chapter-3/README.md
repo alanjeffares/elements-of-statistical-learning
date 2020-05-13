@@ -18,6 +18,9 @@
 * [LAR comparison](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/code/sample_usage.R) - A script evaluating, comparing and visualising my two LAR implementations. 
 <img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/images/evolving_coefficients.png" width="400">
 
+* [Figure 3.5](https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/code/figure_3.5.R) - Recreating plot of least squares RSS on every possible combination of variables from the prostate data. 
+<img src="https://github.com/alanjeffares/elements-of-statistical-learning/blob/master/chapter-3/images/figure_3.5.png" width="400">
+
 
 ## Exercises
 
